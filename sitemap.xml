@@ -6,4 +6,22 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://luganda-quran.netlify.app/blog/how-to-download-full-luganda-quran-audio-by-sheikh-sulaiman-nkata.html</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://luganda-quran.netlify.app/blog/authentic-luganda-quran-translation-by-sheikh-abdurazak-matovu.html</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://luganda-quran.netlify.app/blog/listen-to-luganda-quran-online-guide.html</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

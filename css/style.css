@@ -326,6 +326,27 @@ ul {
     font-size: 15px;
 }
 
+/* Blog Section */
+.blog {
+    padding: 120px 0;
+    background: #fdfdfd;
+}
+
+.blog .feature-card {
+    background: #fff;
+    cursor: pointer;
+}
+
+.blog .feature-card h3 {
+    color: var(--primary);
+}
+
+.blog .back-link {
+    color: var(--primary);
+    font-weight: 700;
+    text-decoration: underline;
+}
+
 /* Download CTA Section */
 .download-cta {
     padding: 100px 0;
